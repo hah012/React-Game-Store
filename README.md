@@ -22,3 +22,10 @@ Responsive design.
 ### Game Details 
 ![](/src/resources/555.PNG)
 
+### Cart, Details & Search
+<div style="display: flex; justify-content: space-between;">
+    <img src="/src/resources/777.PNG" width="30%" />
+    <img src="/src/resources/888.PNG" width="30%" />
+    <img src="/src/resources/999.PNG" width="30%" />
+</div>
+
