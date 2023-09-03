@@ -20,7 +20,7 @@ Responsive design.
 
 <div style="display: flex; justify-content: space-between;">
     <img src="/src/resources/777.PNG" width="49%" />
-    <img src="/src/resources/999.PNG" width="49%" />
+    <img src="/src/resources/888.PNG" width="49%" />
  
 </div>
 
