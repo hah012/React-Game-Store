@@ -16,9 +16,14 @@ Responsive design.
     <img src="/src/resources/222.PNG" width="30%" />
     <img src="/src/resources/3333.PNG" width="30%" />
 </div>
+![Block image](/src/resources/55555.PNG)
+<style>
+    img[src$="#block"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
 
-
-![](/src/resources/3333.PNG)
 ![](/src/resources/4444.PNG)
-![](/src/resources/55555.PNG)
+
 ![](/src/resources/6666.PNG)
