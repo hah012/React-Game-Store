@@ -5,10 +5,10 @@ A GameStore on React using RAWG API
 
 ## Features
 
-Search any game you want.
-Games informations and screenshots.
-Cart Feature
-Responsive design.
+- Search any game you want.
+- Games informations and screenshots.
+- Cart Feature
+- Responsive design.
 
 ## Screenshots
 
@@ -29,3 +29,10 @@ Responsive design.
     <img src="/src/resources/999.PNG" width="30%" />
 </div>
 
+## Steps
+
+1. Clone the repository.
+2. Install the dependencies.
+3. [Create a RAWG account](https://rawg.io/apidocs) to get your API key.
+4. Set your API key in config.jsx
+5. Run the project.
