@@ -11,8 +11,12 @@ Cart Feature
 Responsive design.
 
 ## Screenshots
-
-![](/src/resources//111.PNG)
+<div style="display: flex; justify-content: space-between;">
+    <img src="/src/resources/111.PNG" width="30%" />
+    <img src="/src/resources/222.PNG" width="30%" />
+    <img src="image3.jpg" width="30%" />
+</div>
+![]()
 ![](/src/resources/222.PNG)
 ![](/src/resources/3333.PNG)
 ![](/src/resources/4444.PNG)
