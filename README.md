@@ -12,7 +12,7 @@ Responsive design.
 
 ## Screenshots
 
-### Avaliable in all Screen Sizes
+### Responsive to all Screen Sizes
 <div style="display: flex; justify-content: space-between;">
     <img src="/src/resources/111.PNG" width="30%" />
     <img src="/src/resources/222.PNG" width="30%" />
