@@ -17,9 +17,7 @@ Responsive design.
     <img src="/src/resources/3333.PNG" width="30%" />
 </div>
 
-![](/src/resources/777.PNG)
-![](/src/resources/55555.PNG)
 
-![](/src/resources/4444.PNG)
+![](/src/resources/777.PNG)
 
 ![](/src/resources/6666.PNG)
