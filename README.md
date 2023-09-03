@@ -1,5 +1,5 @@
 # React-Game-Store
-A GameStore on React using RAWG API
+A React Game-Store using RAWG API
 ## 🔴 Demo
 [Live Demo](https://react-gamestore.netlify.app/) available.
 
