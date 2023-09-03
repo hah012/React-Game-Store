@@ -17,14 +17,12 @@ Responsive design.
     <img src="/src/resources/3333.PNG" width="30%" />
 </div>
 <br>
-<p align="center">
-    <img src="/src/resources/777.PNG"  />
-</p>
 
-  <p align="center">
-  <img src="/src/resources/55555.PNG"  style="border-radius: 10px;" />
-</p>  
-
+<div style="display: flex; justify-content: space-between;">
+    <img src="/src/resources/777.PNG" width="50%" />
+    <img src="/src/resources/999.PNG" width="50%" />
+ 
+</div>
 
 
 
