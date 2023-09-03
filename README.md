@@ -12,7 +12,7 @@ Responsive design.
 
 ## Screenshots
 
-![](/src/resources/111.png)
+![](/resources/111.png)
 ![](/src/resources/222.png)
 ![](/src/resources/3333.png)
 ![](/src/resources/4444.png)
