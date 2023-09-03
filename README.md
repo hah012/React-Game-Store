@@ -19,12 +19,6 @@ Responsive design.
     <img src="/src/resources/3333.PNG" width="30%" />
 </div>
 
-### Cart
-<div style="display: flex; justify-content: space-between;">
-    <img src="/src/resources/777.PNG" width="49%" />
-    <img src="/src/resources/888.PNG" width="49%" />
- 
-</div>
 
 
 
