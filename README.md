@@ -19,6 +19,6 @@ Responsive design.
     <img src="/src/resources/3333.PNG" width="30%" />
 </div>
 
-
+### Game Details 
 ![](/src/resources/555.PNG)
 
