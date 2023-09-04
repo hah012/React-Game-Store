@@ -1,5 +1,6 @@
 # React-Game-Store
 A React Game-Store using RAWG API
+[![Netlify Status](https://api.netlify.com/api/v1/badges/102c3f87-791c-4821-a66e-cde561b7db0c/deploy-status)](https://app.netlify.com/sites/react-gamestore/deploys)
 ## 🔴 Demo
 [Live Demo](https://react-gamestore.netlify.app/) available.
 
